@@ -7,7 +7,7 @@ npm install react-multiple-checkbox-select --save-dev
 
 ## API
 
-### TreeSelect props
+### props
 
 | name     | description    | type     | default      |
 |----------|----------------|----------|--------------|
