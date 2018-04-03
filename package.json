@@ -1,0 +1,31 @@
+{
+  "name": "react-multiple-checkbox-select",
+  "version": "0.0.2",
+  "description": "react multiple select",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react select",
+    "react checkbox",
+    "react multiple"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onfuns/react-multiple-select.git"
+  },
+  "bugs": {
+    "url": "https://github.com/onfuns/react-multiple-select.git/issues"
+  },
+  "author": {
+    "name": "onfuns",
+    "url": "https://github.com/onfuns"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "lodash": "^4.17.5"
+  }
+}
