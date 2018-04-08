@@ -10,7 +10,9 @@
   "keywords": [
     "react select",
     "react checkbox",
-    "react multiple"
+    "react multiple",
+    "react multiple checkbox",
+    "react select checkbox"
   ],
   "repository": {
     "type": "git",
