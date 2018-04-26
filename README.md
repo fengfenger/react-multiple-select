@@ -19,6 +19,8 @@ npm install react-multiple-checkbox-select --save
 |labelPlaceholder | 显示框placeholder | String | 请选择选项 |
 |inputPlaceholder | 搜索框placeholder | String | 请输入关键字 |
 |noContentText | 无匹配内容时提示文字 | String | 暂无匹配项 |
+|allText | 全部 | String | 全部 |
 |data | 列表数据 | Array<{value,label}> | [] |
-|defaultValue | 默认初始值 | Array<{value,label}> | [] |
+|value | 选中值 | Array<value> | [] |
+|showFilterAll | 是否显示过滤下的全部选择框 | Boolean | false |
 |onSubmit | 点击确定按钮事件 | Function(values) | |
