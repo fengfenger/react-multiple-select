@@ -6,7 +6,7 @@ npm install react-multiple-checkbox-select --save
 ```
 
 ### 图片
-![](http://image.onfuns.com/blog/images/react-select-demo.png)
+![](https://github.com/onfuns/react-multiple-select/raw/master/screenshots/react-select-demo.png)
 
 ## API
 
